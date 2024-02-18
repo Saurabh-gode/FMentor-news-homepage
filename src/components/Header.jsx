@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className="flex align-middle justify-between">
       <div className="">
-        <img src="/images/logo.svg"></img>
+        <img src="images/logo.svg"></img>
       </div>
       <div className="flex ">
         <HeaderButton title={"home"} />
